@@ -34,3 +34,5 @@ Pada responsi kali ini menggunakan images php:7.4-apache
    - yang kedua buat tabel dengan nama : tb_mahasiswa
    - dan yang ketiga menentukan filed tabelnya : (id primary key INT, nama VARCHAR [25], nim INT [9])
    - untuk default value nya, cheklist semua
+7. Kemudian kembali lagi ke localhostnya, dan masuk ke menu CRUD untuk menambahkan data baru
+8. Selanjutnya isikan data yang anda inginkan dengan ketentuan nim tidak boleh melebihi length yang telah ditentukan.
