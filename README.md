@@ -5,4 +5,8 @@ Berikut langkah - langkah untuk menjalankanya :
 
       git clone https://github.com/ratnawidia/responsi.git
       
-2. 
+2. Setelah selesai proses download, kemudian masuk ke directory
+
+            cd responsi
+            
+3. 
